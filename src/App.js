@@ -27,7 +27,7 @@ function Main() {
 
         <div className="deli-sec">
           <p>Delivery</p>
-          <p> Cart (3)</p>
+          <p> Cart (4)</p>
         </div>
       </div>
     </nav>
